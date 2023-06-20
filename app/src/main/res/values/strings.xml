@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Google Form</string>
+    <string name="welcome">Welcome!</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_hve_account">Don\'t have an account?</string>
+    <string name="register_now">Register now</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="singup">Sign Up</string>
+    <string name="sign_up_to_continue">Sign Up to continue</string>
+    <string name="register">Register</string>
+    <string name="f_name">First Name</string>
+    <string name="c_password">Confirm password</string>
+    <string name="teacher_name">Teacher Name : %1$s</string>
+    <string name="teacher_email">Email : %1$s</string>
+    <string name="course">Course : %1$s</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="no_data">No data found</string>
+    <string name="t_name">Teacher name</string>
+    <string name="t_email">Teacher email</string>
+    <string name="t_course">Course</string>
+    <string name="add_form">Add teacher form</string>
+    <string name="add">Add form</string>
+    <string name="edit_form">Edit teacher form</string>
+</resources>
