@@ -8,4 +8,4 @@ There are three fields user has to put data to save it on firebase database. Use
 I used MVVM architecture for this app because, this app is Data-Driven App, which mean this app heavily relies on data, such as fetching data, storing data, and performing all other CRUD operations.
 So for this purpose, MVVM provides a clear separation between the data layer (Model) and the UI layer (View and ViewModel). This separation allows for easier data management and integration with data sources.
 
-Also I developed this app on Single Activity Architecture pattern.
+Also I developed this app on Single Activity Architecture pattern because, it provides Memory and performance optimization: With a single activity architecture, the main activity remains in memory throughout the app's lifecycle. This can help optimize memory usage and improve performance, as the activity's state is retained when switching between fragments.
